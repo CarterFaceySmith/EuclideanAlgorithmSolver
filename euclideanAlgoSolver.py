@@ -29,7 +29,3 @@ else:
     num2= str(num2)
     print('Program done.')
     print('The GCF is ' + num1)
-            
-
-
-# print('\t' + nums)
